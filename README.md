@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence robotics and technology
 - 🌱 I’m currently learning robotics
 - 💞️ I’m looking to collaborate on everything about technology
-- 📫 Reach me on putriwulandri@gmail.com 
+- 📫 Reach me on putriwulandri@gmail.com and @putri_wulandr on twitter
 
 Join the Indonesian Robot Contest by divison of Indonesian Humanoid Robot Soccer Contest since 2017 till now.
 Presenter on the 7th Indonesian Symposium on Robotic Systems and Control (ISRSC) on Indonesian Robots Contest 2019 at Universitas Dian Nuswantoro Semarang.
